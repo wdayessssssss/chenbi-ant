@@ -24,7 +24,7 @@ export default [
   },
   {
     path: '/welcome',
-    name: 'welcome',
+    name: '管理员页面',
     icon: 'smile',
     component: './Welcome',
   },
@@ -46,7 +46,7 @@ export default [
     ],
   },
   {
-    name: 'list.table-list',
+    name: '表格',
     icon: 'table',
     path: '/list',
     component: './TableList',
